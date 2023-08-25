@@ -136,11 +136,13 @@ setInterval(function(){
 
 ![image](https://github.com/limtowoong/Web_design/assets/104752202/8bbc325a-9443-4124-9665-65ca88830af7)
 
+```css
 .fmenu a{
     color: blue;                          //하이퍼링크 처럼 글씨색을 파란색으로 바꿈
     text-decoration: underline;           //글씨 밑에 줄을 넣어줌
     font-size: 14px;                      //글 크기
 }
+```
 
 ## overflow 활용
 
